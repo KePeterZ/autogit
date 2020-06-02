@@ -27,6 +27,6 @@ Step 3: go through the setup process.
 And that's it! You know have enabled auto-commits and pushes to your choice of Git solution. 
 
 ## I don't like Autogit anymore. How do I remove it? 
-Well, I'm sorry to hear that, but it's quite easy. Just run `./autogit.py -rm` and it will remove every cronjob, and any trace of itself. However, you should make a backup of `autogit.py` before deleting, because in the case you change your mind, you can just `autogit.py -back` and automatic commits and pushes will go back how they used to be. 
+Well, I'm sorry to hear that, but it's quite easy. Just run `./autogit.py -rm` and it will remove every cronjob, and any trace of itself. However, you should make a backup of `autogit.py` before deleting, because in the case you change your mind, you can just `./autogit.py -back` and automatic commits and pushes will go back how they used to be. 
 
 # KePeterZ, 2020
